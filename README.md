@@ -17,18 +17,6 @@ This is ideal for applications requiring privacy protection, such as public vide
 
 ---
 
-## 🖼️ Examples
-
-Here's a comparison of the two anonymization methods. Segmentation provides a tighter, more accurate redaction.
-
-| Bounding Box Anonymization                                          | Segmentation Anonymization                                         |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| <img src="https://i.imgur.com/your_bbox_image_url.gif" width="400"> | <img src="https://i.imgur.com/your_seg_image_url.gif" width="400"> |
-
-_(Suggestion: Run your code on a short clip, record the output, and convert it to a GIF. Upload the GIF to a site like Imgur and replace the placeholder URLs above.)_
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
